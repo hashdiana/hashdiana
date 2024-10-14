@@ -1,10 +1,15 @@
 <div id="title" align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashdiana&show_icons=true&theme=tokyonight)]
+![Modern C++ template][github-sub-title:img]
 
-</div>
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=hashdiana.
 
-![bg](image/1.jpg)
+<div id="title" align=center>
+
+
 
 ### Profile Views
 ![](https://count.getloli.com/get/@hashdiana.github.readme)
+
+![bg](image/1.jpg)
+
