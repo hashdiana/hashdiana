@@ -1,7 +1,6 @@
 </div>
 
-![头像](image/1.png)
-
+![bg](image/1.jpg)
 
 ### Profile Views
 ![](https://count.getloli.com/get/@hashdiana.github.readme)
